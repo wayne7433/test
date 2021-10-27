@@ -1,6 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
-  main.cpp
-d:\10_21\2.27\source\main.cpp(5): warning C4101: 'j': 未參考的區域變數
-d:\10_21\2.27\source\main.cpp(5): warning C4101: 'i': 未參考的區域變數
-  2.27.vcxproj -> D:\10_21\2.27\2.27\2.27\..\..\temp\debug\2.27.exe
