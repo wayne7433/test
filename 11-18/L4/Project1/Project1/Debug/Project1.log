@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\code\11-18\l4\source\source.cpp(13): warning C4477: 'printf' : 格式字串 '%lu' 需要 'unsigned long' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+  d:\code\11-18\l4\source\source.cpp(13): note: 請考慮在格式字串中使用 '%llu'
+  d:\code\11-18\l4\source\source.cpp(13): note: 請考慮在格式字串中使用 '%I64u'
+d:\code\11-18\l4\source\source.cpp(13): warning C4477: 'printf' : 格式字串 '%lu' 需要 'unsigned long' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+  d:\code\11-18\l4\source\source.cpp(13): note: 請考慮在格式字串中使用 '%llu'
+  d:\code\11-18\l4\source\source.cpp(13): note: 請考慮在格式字串中使用 '%I64u'
+d:\code\11-18\l4\source\source.cpp(15): warning C4244: '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\code\11-18\l4\source\source.cpp(25): warning C4244: '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\code\11-18\l4\source\source.cpp(28): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> D:\CODE\11-18\L4\Project1\Debug\Project1.exe

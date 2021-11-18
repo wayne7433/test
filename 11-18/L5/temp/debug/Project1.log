@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Source.cpp
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00BD' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00D0' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00BF' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00E9' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00A4' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00B6' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00EA' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00AD' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00D3' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00BC' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00C6' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00AA' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00EC' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00A9' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00A6' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00B8' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00B5' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00B2' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00F4' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00C8' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\code\11-18\l5\source\source.cpp(8): warning C4566: 由通用字元名稱 '\u00CF' 表示的字元，無法在目前的字碼頁中表示 (950)
+  Project1.vcxproj -> D:\CODE\11-18\L5\Project1\Project1\..\..\temp\debug\Project1.exe
