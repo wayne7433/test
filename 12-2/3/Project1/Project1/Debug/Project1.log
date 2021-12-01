@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\CODE\12-2\3\source\Source.cpp(13,11): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+D:\CODE\12-2\3\source\Source.cpp(13,11): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+D:\CODE\12-2\3\source\Source.cpp(13,11): message : 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+D:\CODE\12-2\3\source\Source.cpp(13,11): message : 此引數可用為緩衝區大小
+D:\CODE\12-2\3\source\Source.cpp(34): warning C4715: 'q1': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> D:\CODE\12-2\3\Project1\Debug\Project1.exe
